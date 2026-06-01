@@ -47,7 +47,7 @@ No extra Python packages are needed. just ollama
 Go to this folder:
 
 ```bash
-cd Week-1/submissions/mahadev
+cd Week-1/submissions/Prakhar
 ```
 
 Start Ollama:
